@@ -1,3 +1,6 @@
 [submodule "java"]
 	path = java
 	url = https://github.com/IgorAssuncao/java.git
+[submodule "infrastructure-architecture-python"]
+	path = infrastructure-architecture-python
+	url = https://github.com/IgorAssuncao/infrastructure-architecture-python.git
