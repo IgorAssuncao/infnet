@@ -4,3 +4,6 @@
 [submodule "infrastructure-architecture-python"]
 	path = infrastructure-architecture-python
 	url = https://github.com/IgorAssuncao/infrastructure-architecture-python.git
+[submodule "infnet-frontend"]
+	path = infnet-frontend
+	url = https://github.com/IgorAssuncao/infnet-frontend.git
