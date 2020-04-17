@@ -7,3 +7,6 @@
 [submodule "infnet-frontend"]
 	path = infnet-frontend
 	url = https://github.com/IgorAssuncao/infnet-frontend.git
+[submodule "csharp"]
+	path = csharp
+	url = git@github.com:IgorAssuncao/csharp.git
