@@ -1,16 +1,12 @@
 [submodule "java"]
 	path = java
 	url = https://github.com/IgorAssuncao/java.git
-	branch = master
 [submodule "infrastructure-architecture-python"]
 	path = infrastructure-architecture-python
 	url = https://github.com/IgorAssuncao/infrastructure-architecture-python.git
-	branch = master
 [submodule "infnet-frontend"]
 	path = infnet-frontend
 	url = https://github.com/IgorAssuncao/infnet-frontend.git
-	branch = master
 [submodule "csharp"]
 	path = csharp
 	url = git@github.com:IgorAssuncao/csharp.git
-	branch = master
